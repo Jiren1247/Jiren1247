@@ -6,7 +6,6 @@
 - 📫 Exploring Machine Learning...
 - 😄 I’m looking to collaborate on Open Source
 
-![](https://github-readme-stats.vercel.app/api?username=Jiren1247&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Jiren1247/count.svg) visitor,Thank You!🤝🏻🤝🏻
 
